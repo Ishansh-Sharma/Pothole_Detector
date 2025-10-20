@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# Virtual environment
+.venv/
+
+# Large files
+*.pt
+*.mp4
+*.mov
+*.MTS
+*.png
+*.jpg
+
+# Python cache
+__pycache__/
+*.pyc
+
